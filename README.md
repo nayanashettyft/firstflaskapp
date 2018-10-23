@@ -28,3 +28,13 @@ mysql> SHOW TABLES;
 mysql> DESCRIBE users;
 mysql> SELECT * FROM users;
 ```
+
+#### Useful docs
+* https://www.bootstrapcdn.com/
+* http://getbootstrap.com/docs/4.1/examples/starter-template/#
+* https://wtforms.readthedocs.io/en/stable/forms.html#the-form-class
+* https://flask-mysqldb.readthedocs.io/en/latest/
+* http://flask.pocoo.org/docs/1.0/patterns/flashing/
+* https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e
+
+
